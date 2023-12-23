@@ -1,0 +1,11 @@
+<!--pages/welcome/welcome.wxml-->
+<view class="container">
+  <!-- <image class="avatar" src="/miniprogram/images/avatar/2.png"></image> -->
+  <image class="avatar" src="/images/avatar/1.png"></image>
+  <lin-avatar open-data="{{['userAvatarUrl', 'userNickName']}}"></lin-avatar>
+  <text class="motto">Hello, 橘子罐头</text>
+  <view class="journey-container">
+    <text class="journey">开启小程序之旅</text>
+  </view>
+  <lin-button type="default">liu ui好用吗</lin-button>
+</view>

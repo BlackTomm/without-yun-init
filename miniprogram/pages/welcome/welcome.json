@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "lin-button":"lin-ui/button/index",
+    "lin-avatar":"lin-ui/avatar/index"
+  },
+  "navigationStyle": "custom"
+}
